@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">GhostCam</string>
+
+    <string name="switch1_text">Warning when lacking access permissions</string>
+    <string name="switch2_text">Disable GhostCam</string>
+    <string name="switch3_text">Play sound</string>
+
+    <string name="select_video_button_text">Select Video to create GhostCam</string>
+    <string name="select_app_text">Select App to use GhostCam:</string>
+    <string name="exit_button_text">Exit</string>
+    <string name="create_ghostcam_button_text">Create GhostCam</string>
+
+    <string name="permission_storage_needed_title">Storage Permission Needed</string>
+    <string name="permission_storage_needed_message">This app needs storage access to select videos and manage GhostCam files. Please grant the permission.</string>
+    <string name="permission_overlay_needed_title">Overlay Permission Needed</string>
+    <string name="permission_overlay_needed_message">Overlay permission might be needed for related features (like a floating menu if you add one later). Please grant it if prompted.</string>
+    <string name="all_files_access_needed_title">All Files Access Needed</string>
+    <string name="all_files_access_needed_message">For full functionality on Android 11+, this app needs \"All Files Access\" to manage GhostCam files in shared storage. Please grant this permission in the settings.</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="video_selected_toast">Video selected: %s</string>
+    <string name="please_select_video_toast">Please select a video first.</string>
+    <string name="please_select_app_toast">Please select a target app.</string>
+    <string name="creating_ghostcam_toast">Creating GhostCam for %s...</string>
+    <string name="ghostcam_created_success">GhostCam created successfully for %s.</string>
+    <string name="ghostcam_creation_failed">Failed to create GhostCam: %s</string>
+    <string name="root_access_required">Root access is required for this operation.</string>
+    <string name="error_copying_video">Error copying video: %s</string>
+    <string name="error_managing_control_files">Error managing control files: %s</string>
+
+
+</resources>
